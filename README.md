@@ -1,7 +1,8 @@
 👋 Hi, I’m @praneetk77
-- 💻 Android App Developer at DVM - BITS Pilani
+- 💻 App Developer at DVM - BITS Pilani
 - 👀 Interested in App and Game development
-- 🌱 Currently learning Flutter and Kotlin 
+- 🌱 Proficient in AppDev using Java, Kotlin and Flutter
+- 🎯 Currently learning FullStack Web Development
 - 📫 Instagram - prane2t
 
 
