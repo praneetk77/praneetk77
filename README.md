@@ -17,7 +17,6 @@
 - 👀 Interested in App and Game development
 - 🌱 Proficient in AppDev using Java, Kotlin and Flutter
 - 🎯 Beginner in Full-Stack WebDev using MERN stack
-- 📫 Instagram - [prane2t][instagram], LinkedIn - [Praneet Karna][linkedin]
 
 <br/>
 
