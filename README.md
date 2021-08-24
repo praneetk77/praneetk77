@@ -20,7 +20,8 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praneetk77&show_icons=true&hide_border=true&theme=dark&&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praneetk77&show_icons=true&theme=github_dark&&count_private=true" />
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
